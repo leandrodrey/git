@@ -69,7 +69,7 @@ Shows only commits made after a specific date.
 <pre>git log --until="2023-12-31"</pre>
 Shows only commits made before a specific date.
 
-<pre>git log --grep="fix"</pre>
+<pre>git log --grep="Update metadata"</pre>
 Filters the commits to show only those with commit messages that match the given pattern.
 
 ![image](https://github.com/user-attachments/assets/4c3a8068-c013-49d5-a3f4-8de10ef84e4d)
