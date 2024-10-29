@@ -11,7 +11,7 @@ My goal in these articles is to keep them simple and explain the concepts in my 
 * `git add`
 * `git commit`
 * `git status`
-* `git log`
+* [`git log`](https://github.com/leandrodrey/git/blob/master/git_log.md)
 * `git branch`
 * `git checkout`
 * `git merge`
