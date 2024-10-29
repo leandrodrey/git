@@ -2,6 +2,8 @@
 
 This repository provides a comprehensive guide to essential Git commands, with clear explanations and practical examples. Whether you're a beginner just starting with version control or an experienced developer looking to refresh your knowledge, this resource will help you navigate the world of Git with confidence.
 
+My goal in these articles is to keep them simple and explain the concepts in my own practical way.
+
 **Explore the following commands:**
 
 * `git init`
