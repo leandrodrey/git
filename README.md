@@ -2,7 +2,8 @@
 
 This repository provides a comprehensive guide to essential Git commands, with clear explanations and practical examples. Whether you're a beginner just starting with version control or an experienced developer looking to refresh your knowledge, this resource will help you navigate the world of Git with confidence.
 
-My goal in these articles is to keep them simple and explain the concepts in my own practical way.
+> [!IMPORTANT]
+> My goal in these articles is to keep them simple and explain the concepts in my own practical way. 
 
 **Explore the following commands:**
 
@@ -26,4 +27,6 @@ Each command is explained with:
 * **Practical examples:** See how each command is used in real-world scenarios.
 * **Common use cases:** Discover the different ways each command can be applied.
 
-I hope this repository helps you with your project!
+**I hope this repository helps you with your project!**
+
+Git official site: https://git-scm.com/
