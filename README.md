@@ -6,7 +6,7 @@ My goal in these articles is to keep them simple and explain the concepts in my 
 
 **Explore the following commands:**
 
-* `git init`
+* [`git init`](https://github.com/leandrodrey/git/blob/master/git_init.md)
 * `git clone`
 * `git add`
 * `git commit`
