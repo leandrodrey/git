@@ -55,3 +55,6 @@ Inside this folder you can find:
 > * **New templates:** Git uses templates to create certain files automatically (like the initial commit message). If you've added new templates to your system, running git init again will make sure your repository uses them.
 >   
 > * **Moving the repository:** If you want to move your repository to a different location on your computer, you can use the --separate-git-dir option with git init. This lets you keep the repository's data in one place and the actual project files in another.
+
+## More information
+* https://git-scm.com/docs/git-init
