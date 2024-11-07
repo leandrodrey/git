@@ -24,7 +24,7 @@ cd NewRepo
 
 Run the command to initialize a Git repository.
 ```bash
-git init -> 
+git init
 ```
 
 ![image](https://github.com/user-attachments/assets/269a4557-ed82-4aac-acbe-1470eda1fadd)
